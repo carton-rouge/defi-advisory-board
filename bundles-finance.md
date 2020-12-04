@@ -1,6 +1,6 @@
 # Bundles Finance
 
-- Date: 04.12.2020 | 15.00
+- Date: 04.12.2020 | 15.00 (CET)
 - Web-app: https://bundles.finance/
 
 ### BUND token
