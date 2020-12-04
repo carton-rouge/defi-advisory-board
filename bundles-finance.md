@@ -3,6 +3,12 @@
 - Date: 04.12.202 | 15.00
 - Web-app: https://bundles.finance/
 
+### BUND token
+
+- 9,970 BUND locked for 1 year (until 25.10.2021) [see tx](https://etherscan.io/tx/0x1c98a1c8cae3e53d4cdadef643c8aae67563421b7026ff262036ad8cb40e6ea8)
+- Owner has 9,515 BUND (~9.5% ; ~$60K) [see here](https://etherscan.io/token/0x8D3E855f3f55109D473735aB76F753218400fe96?a=0xc86780efee90943da056b031464f9358133f8d1f)
+- 1,998 BUND locked in [0x44ef4b1dc8f566350f3cCD5C83c21743151fb98D](https://etherscan.io/address/0x44ef4b1dc8f566350f3ccd5c83c21743151fb98d) ; this is an **unverfied** contract (on Etherscan), looks like a staking reward contract.
+
 ### Bundles contract
 
 - Deployed at [0x619b26D4a3df18C5e0EC37a70F1359774972959F](https://etherscan.io/address/0x619b26D4a3df18C5e0EC37a70F1359774972959F#code)
